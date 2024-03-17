@@ -56,7 +56,7 @@ Welcome to Lingo, your go-to platform for language learning! Lingo is a comprehe
 
 To get started with Lingo, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/lingo.git`
+1. Clone the repository: `git clone https://github.com/GreNxNja/lingo.git`
 2. Install dependencies: `npm install`
 3. Set up environment variables
 4. Run the development server: `npm run dev`
